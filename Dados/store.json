@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "descricao":"produto 1",
+        "imagem": "https://www.lognetinfo.com.br/imagens/original/20501A.jpg",
+        "preco": 250.0
+    },
+    {
+        "id": 1,
+        "descricao":"produto 1",
+        "imagem": "https://m.media-amazon.com/images/I/6177vP0viyL._AC_UF894,1000_QL80_.jpg",
+        "preco": 300.0
+    },
+    {
+        "id": 1,
+        "descricao":"produto 1",
+        "imagem": "https://m.media-amazon.com/images/I/51TQ1yDepSL._AC_UF894,1000_QL80_.jpg",
+        "preco": 1359.0
+    }
+]
